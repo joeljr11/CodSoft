@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=accountNumber\ pin\ balance
+comment1.target=BankAccount(long,\ int,\ double)
+comment2.params=
+comment2.target=long\ getAccountNumber()
+comment3.params=
+comment3.target=int\ getPin()
+comment4.params=
+comment4.target=double\ getBalance()
+comment5.params=amount
+comment5.target=void\ deposit(double)
+comment6.params=amount
+comment6.target=boolean\ withdraw(double)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
